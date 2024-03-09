@@ -1,0 +1,59 @@
+12:29:59.204 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\jaber\eclipse-workspace\opencart\testng.xml
+
+12:29:59.291 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistrationTest ****** 
+12:29:59.291 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started.....
+12:29:59.327 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+12:29:59.327 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs....
+12:30:24.804 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\jaber\eclipse-workspace\opencart\testng.xml"
+12:30:25.213 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\jaber\eclipse-workspace\opencart\testng.xml
+
+12:30:27.989 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistrationTest ****** 
+12:30:27.989 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started.....
+12:30:28.100 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link 
+12:30:28.505 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my registiration info link 
+12:30:28.506 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+12:30:31.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue...
+12:30:31.477 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:30:31.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed....
+12:30:31.480 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.....
+12:30:31.480 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest ****** 
+20:00:20.725 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\jaber\eclipse-workspace\opencart\testng.xml"
+20:00:21.131 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\jaber\eclipse-workspace\opencart\testng.xml
+
+20:00:28.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistrationTest ****** 
+20:00:28.459 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started.....
+20:00:28.555 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link 
+20:00:28.995 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my registiration info link 
+20:00:28.995 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+20:00:31.980 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue...
+20:00:32.018 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+20:00:32.018 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed....
+20:00:32.021 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.....
+20:00:32.021 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest ****** 
+20:00:34.096 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest ****
+20:00:34.097 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs.....
+20:00:34.167 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page
+20:01:44.576 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\jaber\eclipse-workspace\opencart\testng.xml"
+20:01:44.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\jaber\eclipse-workspace\opencart\testng.xml
+
+20:01:47.495 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistrationTest ****** 
+20:01:47.495 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started.....
+20:01:47.598 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link 
+20:01:47.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my registiration info link 
+20:01:47.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+20:01:50.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue...
+20:01:50.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+20:01:50.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed....
+20:01:50.912 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.....
+20:01:50.912 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest ****** 
+20:01:53.736 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest ****
+20:01:53.736 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs.....
+20:01:54.200 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page
+20:04:05.099 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\jaber\eclipse-workspace\opencart\testng.xml"
+20:04:05.472 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\jaber\eclipse-workspace\opencart\testng.xml
+
